@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VhinyMombo
-- 👀 I’m interested in  Data Science
-- 🌱 I’m currently learning Applied Maths
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 I’m interested in  Data Science and Quantitative Finance 
+- 🌱 I got a M.Eng in Geophysics and I'm studying Applied Mathematics (M.Eng & M.Sc)
+- Here I post some projects I've done.
+
 
 <!---
 VhinyMombo/VhinyMombo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
