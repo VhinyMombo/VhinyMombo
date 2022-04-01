@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VhinyMombo
-- 👀 I’m interested in so many field linked with Applied Mathematics such as Data Science, Optimization Problems and Quantitative Finance. 
+- 👀 I’m interested in Applied Mathematics especially in Data Science, Optimization Problems and Numerical Finance. 
 - 🌱 I got a M.Eng in Geophysics & Signal Processing and I'm studying Applied Mathematics (M.Eng & M.Sc Double Degree)
 - Here I'm posting projects, I've worked on or working on.
 - Don't hesistate to hit me up for suggestion and discussion.
